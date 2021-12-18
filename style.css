@@ -30,6 +30,7 @@ body {
 .cookie {
   margin-right: 1.5rem;
   transform: scale(0.95);
+  overflow: visible;
 }
 
 .text {
